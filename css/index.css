@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+    color:grey;
+    font-family: Arial;
+    text-align: center; 
+}
+img#imagen1{
+    width: 900px;
+    height: 400px;
+    display: block;
+    margin: auto;
+}
+h1{
+    font-family:"Agency FB";
+    color:white;
+    text-align: center;    
+}
+p{
+    color:grey;
+    text-align: center; 
+    font-family: Arial;
+}
+h2{
+    font-family:"Agency FB";
+    color:white;
+    text-align: center;  
+}
+img#imagen2{
+    width: 200px;
+    display: block;
+    margin: auto;
+}
+img#imagen3{
+    width: 200px;
+    display: block;
+    margin: auto;
+}
+img#imagen4{
+    width: 400px;
+    display: block;
+    margin: auto;
+}
+img#imagen5{
+    width: 200px;
+    display: block;
+    margin: auto;
+}
+img#imagen6{
+    width: 600px;
+    display: block;
+    margin: auto;
+}
+iframe{
+    display: block;
+    margin: auto;
+}
+img#imagen7{
+    width: 600px;
+    display: block;
+    margin: auto;
+}
+
