@@ -4,7 +4,7 @@
         <title>
             Guía: Pesca.
         </title>
-        <link rel="stylesheet" type="text/css" href="css/pescadiseño.css">
+        <link rel="stylesheet" type="text/css" href="css/pesca.css">
     </head>
     <body>
         <a>

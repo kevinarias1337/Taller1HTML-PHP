@@ -4,7 +4,7 @@
         <title>
             Guía: Animales legendarios.
         </title>
-        <link rel="stylesheet" type="text/css" href="css/animaleslegendariosdiseño.css">
+        <link rel="stylesheet" type="text/css" href="css/animaleslegendarios.css">
     </head>
     <body>
         <a>

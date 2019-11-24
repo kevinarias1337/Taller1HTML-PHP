@@ -4,7 +4,7 @@
         <title>
             Guía: Tesoros.
         </title>
-        <link rel="stylesheet" type="text/css" href="css/tesorosdiseño.css">
+        <link rel="stylesheet" type="text/css" href="css/tesoros.css">
     </head>
     <body>
         <a>

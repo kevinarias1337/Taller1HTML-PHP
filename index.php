@@ -4,7 +4,7 @@
         <title>
                Guía Red Dead Redemption 2
         </title>
-        <link rel="stylesheet" type="text/css" href="css/diseño.css">
+        <link rel="stylesheet" type="text/css" href="css/index.css">
     </head>
 <body>
         <a>

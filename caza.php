@@ -4,7 +4,7 @@
         <title>
             Guía: Caza.
         </title>
-        <link rel="stylesheet" type="text/css" href="css/cazadiseño.css">
+        <link rel="stylesheet" type="text/css" href="css/caza.css">
     </head>
     <body>
         <a>
