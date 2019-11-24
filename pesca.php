@@ -61,7 +61,7 @@
             <img id="imagen4" src="css/imagenes/pescar1.jpg">
         </a>
         <a>
-            <img id="imagen5" src="css/imagenes/cebosyseñuelos.png">
+            <img id="imagen5" src="css/imagenes/cebosysenuelos.png">
         </a>
         <p>
             Los cebos de comida (como el pan) y los naturales (como los gusanos) son baratos y fáciles de conseguir,
